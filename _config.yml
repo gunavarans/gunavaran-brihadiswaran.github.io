@@ -21,7 +21,7 @@ repository               : ""
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "guna.png"
+  avatar           : "profile.png"
   name             : "Gunavaran Brihadiswaran"
   pronouns         : # example: "she/her"  
   bio              : "Computer Engineering Ph.D. Student"
