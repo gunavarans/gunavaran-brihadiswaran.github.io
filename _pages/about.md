@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Image Description](/images/home.jpeg)
+![Image Description](../images/home.jpeg)
 
 👨‍🎓 I'm a Computer Engineering Ph.D. student at NC State University
 
