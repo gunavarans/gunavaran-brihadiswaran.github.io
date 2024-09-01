@@ -7,11 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Image Description](/images/home.jpeg)
+![Image Description](/gunavaran-brihadiswaran.github.io/images/home.jpeg)
 
-👨‍🎓 I'm a Computer Engineering Ph.D. student at NC State University
-
-🧬 My research revolves around DNA Data Storage
-
-In my free time, I enjoy playing 🏸 badminton, 🥾 hiking, and 📷 photography.
+👨‍🎓 I am a Computer Engineering Ph.D. student at NC State University. My research revolves around 🧬 DNA Data Storage. In my free time, I enjoy playing 🏸 badminton, 🥾 hiking, and 📷 photography.
 
