@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Image Description](/gunavaran-brihadiswaran.github.io/images/home.jpeg)
+<!-- ![Image Description](/gunavaran-brihadiswaran.github.io/images/home.jpeg) -->
 
 👨‍🎓 I'm a Computer Engineering Ph.D. student at NC State University
 
