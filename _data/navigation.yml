@@ -13,7 +13,11 @@ main:
     url: /research/    
   
   - title: "Photography"
-    url: /photography/    
+    url: /photography/
+
+  - title: "Blog"
+    url: https://medium.com/@gunavaran
+    target: "_blank"
     
   # - title: "Portfolio"
   #   url: /portfolio/

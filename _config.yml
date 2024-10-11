@@ -59,7 +59,7 @@ author:
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
-  medium           : "https://medium.com/@gunavaran"
+  medium           : #"https://medium.com/@gunavaran"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
@@ -303,6 +303,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-redirect-from
+  - jekyll-target-blank
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate

@@ -16,6 +16,8 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
+gem 'jekyll-target-blank'
+
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "ffi", "< 1.17.0"
 
