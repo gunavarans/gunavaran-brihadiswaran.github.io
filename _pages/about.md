@@ -44,11 +44,20 @@ I have engaged in collaborative research with teams from:
    <a href="https://columbus.iu.edu/index.html" target="_blank">
     <img src="images/indiana.png" alt="Institution 1" style="height: 70px;">
   </a>
-
 </div>
 
 <br>
 
 # Updates and News
 
-<embed src="_pages/timeline.html" type="text/html" style="height:100vh;"/> 
+<embed src="_pages/timeline.html" type="text/html"/> 
+
+<br>
+
+# Mentored Students
+I have had the privilege of mentoring several talented students throughout their academic journeys. Below is a list of students I’ve mentored, along with their degree pursued, year of mentorship, and their next/current positions:
+
+- Alan An, High school senior (2024/25)
+- Budvin Edippuliarachchi, Undergraduate (2021/22), Graduate Student at University of Utah
+- Damika Gamlath, Undergraduate (2021/22), Software Engineer at Google
+- Ruchin Amaratunga, Undergraduate (2021/22), R&D Engineer at Synopsys Sri Lanka
