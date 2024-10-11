@@ -15,6 +15,39 @@ I completed both my Master’s and Bachelor’s degrees at the <a href="https://
 
 In my free time, I enjoy playing 🏸 badminton, 🥾 hiking, and 📷 photography.
 
+I have worked at:
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+  <a href="https://www.ncsu.edu/" target="_blank">
+    <img src="images/ncstate.png" alt="Institution 1" style="height: 70px;">
+  </a>
+  <a href="https://www.sutd.edu.sg/" target="_blank">
+    <img src="images/sutd.jpeg" alt="Institution 1" style="height: 70px;">
+  </a>
+  <a href="https://uom.lk/" target="_blank">
+    <img src="images/mora.png" alt="Institution 2" style="height: 70px;">
+  </a>
+  <a href="https://www.sjp.ac.lk/" target="_blank">
+    <img src="images/jayepura.png" alt="Institution 3" style="height: 70px;">
+  </a>
+</div>
+
+<br>
+
+I have engaged in collaborative research with teams from:
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin-top: 20px;">
+  <a href="https://www.ncsu.edu/" target="_blank">
+    <img src="images/ncstate.png" alt="Institution 1" style="height: 70px;">
+  </a>
+  <a href="https://www.odu.edu/" target="_blank">
+    <img src="images/odu.png" alt="Institution 1" style="height: 70px;">
+  </a>
+   <a href="https://columbus.iu.edu/index.html" target="_blank">
+    <img src="images/indiana.png" alt="Institution 1" style="height: 70px;">
+  </a>
+
+</div>
+
+<br>
 
 # Updates and News
 
