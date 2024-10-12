@@ -44,6 +44,9 @@ I have engaged in collaborative research with teams from:
    <a href="https://columbus.iu.edu/index.html" target="_blank">
     <img src="images/indiana.png" alt="Institution 1" style="height: 70px;">
   </a>
+   <a href="https://www.uno.edu/" target="_blank">
+    <img src="images/new_orleans.jpg" alt="Institution 1" style="height: 70px;">
+  </a>
 </div>
 
 <br>
