@@ -53,7 +53,7 @@ I have engaged in collaborative research with teams from:
 
 # Updates and News
 
-<embed src="_pages/timeline.html" type="text/html"/> 
+<embed src="_pages/timeline.html" type="text/html" style="width:100%; height:800px;"/> 
 
 <br>
 
